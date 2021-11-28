@@ -1,0 +1,25 @@
+body {
+    background-image: url(view.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+}
+
+.elem {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(102, 116, 241);
+    font-weight: bold;
+    background-color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(102, 116, 241);
+}
